@@ -1,5 +1,5 @@
 # XRVIEW
-Extended Reality viewer
+Extended Reality(XR) viewer
 This is a quickly put together 3D viewer, dimensional analysis and XR projection tool.
 I've targeted STEP, STL, JSON, 3Mf...for now.
 I basically wanted something I can use on my phone or tablet, found something in the Google app store which was ok,
@@ -9,3 +9,4 @@ so I engineered my own tool, for what I need it to do.
 If I could charge I would sell the tool for $4.99 or €4.99 or less.
 
 I may add a slicer function, but it isn't necessary. For now I am just running UI and UX tests.
+Oh by the way, you can project your model or assembly unto a surface/ table.
