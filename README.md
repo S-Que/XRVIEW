@@ -1,5 +1,5 @@
 # XRVIEW
-Extended Reality(XR) viewer
+Extended Reality(XR) viewer is what this is.
 This is a quickly put together 3D viewing, dimensional analysis and XR projection tool.
 I have targeted STEP, STL, JSON, OBJ, 3Mf...for now.
 I basically wanted something I can use on my phone or tablet, found something in the Google app store which was ok,
